@@ -18,3 +18,30 @@ card {
     "width: 300px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); text-align: center; font-family: Arial;">
 }
 
+body, html {
+    height: 100%;
+}
+
+
+.hero-image {
+ 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("purple-vortex-abstract-89o0v9aozl3h0ghb.jpg");
+
+
+  height: 50%;
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
