@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(45, 50, 63) !important;
+}
+.navbar {
+    background-color: rgba(6, 2, 16, 0.6) !important;
+}
+.navbar .nav-link {
+    color: rgb(145, 138, 157) !important;
+}
+.navbar .nav-link:hover {
+    color: rgb(62, 45, 76) !important;
+}
+main {
+    color: rgb(255, 255, 255) !important;
+}
