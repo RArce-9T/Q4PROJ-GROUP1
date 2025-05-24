@@ -52,6 +52,13 @@ body {
   padding: 2rem;
 }
 
+.hero-content p {
+  color: white;
+  text-shadow: 0 0 10px white,
+               0 0 20px white,
+               0 0 40px white;
+}
+
 .btn {
   display: inline-block;
   margin-top: 1rem;
@@ -67,13 +74,3 @@ body {
 .btn:hover {
   background: #ddd;
 }
-
-.hero-content h1,
-.hero-content p {
-  color: white;
-  text-shadow: 0 0 10px white,
-               0 0 20px white,
-               0 0 40px white;
-}
-
-text-shadow: 0 0 5px white, 0 0 10px white;
