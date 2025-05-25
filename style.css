@@ -1,5 +1,6 @@
 body {
     background-color: rgb(45, 50, 63) !important;
+    text-align: center;
 }
 .navbar {
     background-color: rgba(6, 2, 16, 0.6) !important;
