@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 .container {
-    background-color: LightGray
+    background-color: LightGray;
 }
 .navbar {
     background-color: rgba(6, 2, 16, 0.6) !important;
