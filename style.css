@@ -4,6 +4,7 @@ body {
 }
 .container {
     background-color: LightGray;
+    border-radius: 25px;
 }
 .navbar {
     background-color: rgba(6, 2, 16, 0.6) !important;
