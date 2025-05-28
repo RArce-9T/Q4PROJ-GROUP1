@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <title>Vilale Eats</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+    <nav>
+        <input type="checkbox" id="check">
+        <label for="check" class="icon">≡</label>
+
+        <div class="logo">
+        <a href="index.html">
+        <img src="logo.png">
+        </a>
+        </div>
+
+        <div class="logo2">
+        <a href="index.html">
+        <img src="logo2.png">
+        </a>
+        </div>
+        <ul>
+            <li><a class="index.html" href="index.html">HOME</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="recipe.html>RECIPES</a></li>
+            <li><a href="registration.html">SHARE RECIPE</a></li>
+        </ul>
+    </nav>
+
+
+
+
+    <div class="img-container">
+        <div class="box1">
+            <img src="tulingan.jpg">
+            <h3>Ginataang Tulingan</h3>
+            <br>
+            <p>Ginataang Tulingan is a Filipino dish wherein fish is cooked in coconut milk along with eggplant and other ingredients. The fish used in this recipe is locally referred to as tulingan.
+            <br>
+            <br><strong>Prep:</strong> 15min
+            <br><strong>Cook:</strong> 1h 40min
+            <br><strong>Total:</strong> 1h 55min
+            </p>
+
+        </div>
+
+        <div class="box2">
+            <h1>Ingredients</h1>
+            <br>
+                <p>
+                	4 pieces tulingan
+                	<br>
+                	3 ounces pork fat sliced
+                	<br>
+                	2 cups coconut milk
+                	<br>
+                	10 pieces kamias (bilimbi)
+                	<br>
+                	3 thumbs ginger julienne
+                	<br>
+                	5 pieces Thai chili pepper
+                	<br>
+                	1 piece eggplant sliced
+                	<br>
+                	1 piece onion sliced
+                	<br>
+                	5 cloves garlic crushed and minced
+                	<br>
+                	1 teaspoon patis
+                	<br>
+                	1 3/4 cups water
+                	<br>
+                	Salt and ground black pepper tp taste
+                	<br>
+
+
+                </p>
+                <br>
+
+            <h1>Cooking Instructions</h1>
+            <p>
+
+                <br>
+                    1. Clean the fish thoroughly.
+                    <br>
+
+                    2. Create a slit on both sides and rub salt all over. Let it stay for 10 to 15 minutes.
+                    <br>
+
+                    3. Arrange pork fat, kamias, fish, and ginger. Pour water. Cover and let boil. Continue to cook in medium heat for 40 minutes.
+                    <br>
+
+                    4. Pour coconut milk into the pot. Then add garlic, onion, and chili.
+                    <br>
+
+                    5. Cover and continue to boil for another 40 minutes using low to medium heat. Add eggplant and cook for 5 to 7 minutes. Season with patis ang ground black pepper.
+                    <br>
+
+                    6. Transfer to a serving plate and serve.
+                    <br>
+
+                    7. Share and enjoy!
+
+            </p>
+
+       </div>
+
+</body>
+</html>
